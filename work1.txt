@@ -7,3 +7,5 @@
 7
 8
 9 add. stage area -> ropository 로 옮기는 행위 = commit
+14 v13에서는 work2를 수정하고, 11로 체크아웃 해서 work1을
+수정하면 분홍색 선이 생겨요.
